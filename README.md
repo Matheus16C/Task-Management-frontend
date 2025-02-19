@@ -1,5 +1,5 @@
 
-# ### **Task Management – Frontend (Vue.js com Vite)**
+# **Task Management – Frontend (Vue.js com Vite)**
 
 Este é o frontend da aplicação **Task Management**, desenvolvido em **Vue.js 3** utilizando **Vite** para otimização e velocidade.
 
